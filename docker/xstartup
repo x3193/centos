@@ -6,5 +6,6 @@ unset SESSION_MANAGER
 unset DBUS_SESSION_BUS_ADDRESS
 OS=`uname -s`
 #gnome-session &
-startxfce4 &
+#startxfce4 &
+autocutsel &
 xterm &
